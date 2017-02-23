@@ -9,4 +9,4 @@ Chapter 6
 - Tutorial6_2 (roipoly.py & pout.tif are needed)
 
 Chapter 8
-- Example7 (klcc_a.tif is needed)
+- Example8 (klcc_a.tif is needed)
