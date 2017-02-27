@@ -10,3 +10,7 @@ Chapter 6
 
 Chapter 8
 - Example8 (klcc_a.tif is needed)
+
+Chapter 9
+- Example9_1 (pout.tif & salzburg.png are needed)
+- Example9_2 (pout.tif is needed)
