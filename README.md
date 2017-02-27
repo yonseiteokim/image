@@ -14,3 +14,4 @@ Chapter 8
 Chapter 9
 - Example9_1 (pout.tif & salzburg.png are needed)
 - Example9_2 (pout.tif is needed)
+- Example9_3 (coins.png is needed)
